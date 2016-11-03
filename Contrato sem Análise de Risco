@@ -1,25 +1,22 @@
 CONTRATO DE USO DOS SERVIÇOS MOIP
 
 
-Pelo presente instrumento particular, de um lado, na qualidade de contratante, o “CLIENTE”, 
 
-<empresa>, sociedade empresária, com sede na <endereço>, inscrita no CNPJ nº <cnpj>, neste ato representado por seu representante legal infra-assinado, na forma do seu vigente Estatuto/Contrato Social, doravante denominado “CLIENTE”;
-
+Pelo presente instrumento particular, de um lado, na qualidade de contratante, 
+<nome da empresa>, sociedade empresária, com sede na <endereço da empresa>, inscrita no CNPJ nº <CNPJ da empresa>, neste ato representada regularmente conforme seu Estatuto Social, doravante denominada “CLIENTE”, 
 e, de outro lado, na qualidade de contratada, 
+MOIP PAGAMENTOS S.A., sociedade anônima fechada, com sede na Avenida Brigadeiro Faria Lima, 2.927, 8º andar, CEP 01452-000, São Paulo - SP, inscrita no CNPJ/MF sob o nº 08.718.431/0001-08, neste ato representada por seus representantes legais infra-assinados, doravante “MOIP”,
 
-MOIP PAGAMENTOS S.A., sociedade empresária com sede na Av. Brigadeiro Faria Lima, 2.927, 8º andar, CEP 01452-000, São Paulo - SP, inscrita no CNPJ/MF sob o nº 08.718.431/0001-08, doravante denominado “MOIP”; 
+denominadas conjuntamente “Partes”; resolvem celebrar o presente Contrato de Uso dos Serviços Moip (“CONTRATO”), conforme as seguintes Cláusulas e Condições:
 
-
-e, doravante denominadas conjuntamente “Partes”; resolvem celebrar o presente Contrato de Uso dos Serviços Moip (“CONTRATO”), conforme as seguintes Cláusulas e Condições:
 
 1.	ANEXOS
 
 Além do “Contrato de Uso dos Serviços MOIP”, os seguintes anexos também fazem parte deste CONTRATO:
 (i)	ANEXO I – Definições;
-(ii)	ANEXO II – Programa Venda Protegida;
-(iii)	ANEXO III – Marketplace por Agenciamento;
-(iv)	ANEXO IV – Marketplace por Comissionamento
-(v)	ANEXO V – Crowdfunding;
+(ii)	ANEXO II – Marketplace por Agenciamento;
+(iii)	ANEXO III – Marketplace por Comissionamento
+(iv)	ANEXO IV – Crowdfunding;
 
 
 2.	SERVIÇOS MOIP
@@ -34,8 +31,8 @@ Os serviços prestados pelo MOIP consistem na captura, processamento, roteamento
 3.1.2.	A falha em informar e manter atualizados os dados cadastrais impossibilita o correto fornecimento das SOLUÇÕES e FERRAMENTAS MOIP, sendo que qualquer perda relacionada é de exclusiva responsabilidade do CLIENTE.
 
 3.2.	Existem 2 (dois) tipos distintos de CONTA MOIP:
-(i)	Conta MOIP Light: conta pré-paga com limite de SALDO e TRANSAÇÕES mensais no valor de R$ 5.000,00 (cinco mil reais).
-(ii)	Conta MOIP Master: conta de pagamento pré-paga destinada à execução de TRANSAÇÕES de pagamento sem as limitações impostas nos itens acima.
+(i)	Conta MOIP Light (não verificada): conta pré-paga com limite de SALDO e TRANSAÇÕES mensais no valor de R$ 5.000,00 (cinco mil reais).
+(ii)	Conta MOIP Master (verificada): conta de pagamento pré-paga destinada à execução de TRANSAÇÕES de pagamento sem as limitações impostas nos itens acima.
 
 3.3.	Para criação da CONTA MOIP, o CLIENTE deve ser maior de 18 anos ou ser empresa devidamente registrada, com sede e operações no Brasil, possuir CPF ou CNPJ válido e endereço de e-mail ativo.
 3.3.1.	O MOIP usará todas as informações disponíveis para controle dos riscos operacionais e legais tanto para o cadastro dos CLIENTES quanto para o recebimento dos pagamentos efetuado pelos CONSUMIDORES, podendo, neste caso, recusar-se a prestação dos serviços com determinada PARTE que considerar como um possível risco ao seu funcionamento.
@@ -141,6 +138,7 @@ Os serviços prestados pelo MOIP consistem na captura, processamento, roteamento
 6.6.	A solicitação de saque da CONTA MOIP para a conta bancária somente será cumprida se a instituição financeira indicada pelo CLIENTE estiver devidamente cadastrada no Sistema de Pagamentos Brasileiro (SPB) e no Sistema de Transferência de Reservas (STR) do Banco Central do Brasil e listada como opção disponível para saque na CONTA MOIP.
 6.6.1.	O CLIENTE definirá a instituição financeira de sua preferência e o tipo de conta para o qual será transferido o montante disponível na CONTA MOIP;
 6.6.2.	O CLIENTE só pode transferir valores para contas classificadas como Contas de Depósitos, conforme Resolução 2.025 do Conselho Monetário Nacional.
+6.6.3.	O MOIP não realiza transferências de valores disponíveis na CONTA MOIP do CLIENTE em conta do tipo poupança da instituição financeira Caixa Econômica Federal.
 
 6.7.	Na hipótese de ocorrer estorno ou cancelamento da TRANSAÇÃO, o CLIENTE poderá solicitar o depósito dos recebíveis diretamente na conta bancária registrada na CONTA MOIP.
 
@@ -229,50 +227,37 @@ Número de parcelas	Recebimento em 30 dias	Recebimento em 14 dias	Recebimento em
 8.7.1.	O aumento do ÍNDICE DE VENDAS PROBLEMÁTICAS e o risco de crédito determinado pelas AGÊNCIAS DE PROTEÇÃO AO CRÉDITO são situações que implicam na exclusão do CLIENTE do Programa de Liquidação Antecipada das Transações.
 
 
-
 9.	ANÁLISE DE RISCO
 
-9.1.	O MOIP fará a apuração de eventuais fraudes nas TRANSAÇÕES processadas em favor do CLIENTE através de sistema de análise de risco próprio e de PARCEIROS.
+9.1.	O MOIP não fará a apuração de eventuais fraudes nas TRANSAÇÕES processadas em favor do CLIENTE, já que este solicitou a aprovação automática de todas as TRANSAÇÕES, excluindo qualquer responsabilidade que o MOIP possa ter por perdas decorrentes de CHARGEBACK, CANCELAMENTO, estorno, RECLAMAÇÃO, entre outros problemas relacionados à falta de análise de risco do COMPRADOR.
 
-9.2.	A análise de um eventual risco da TRANSAÇÃO é feita com base em padrões históricos e conferência dos dados cadastrais, podendo resultar numa probabilidade de que determinada TRANSAÇÃO seja fraudulenta. O modelo estatístico utiliza os seguintes dados como base:
-(i)	Dados cadastrais do COMPRADOR e/ou,
-(ii)	Dados do dispositivo do COMPRADOR utilizados para realizar a TRANSAÇÃO.
-(iii)	Tipo de negócio do CLIENTE ou produtos ofertados ao MERCADO.
+9.2.	O MOIP não garante que as TRANSAÇÕES efetuadas pelos COMPRADORES serão aprovadas pelos demais integrantes da REDE DE PAGAMENTO.
 
-9.3.	Feita a avaliação de risco transacional, o MOIP aprovará automaticamente as TRANSAÇÕES classificadas como “baixo risco”. As TRANSAÇÕES identificadas como “alto risco” serão analisadas manualmente pelo MOIP. Nessa revisão manual, o MOIP poderá contatar o COMPRADOR, em nome do CLIENTE, para conferência dos DADOS E INFORMAÇÕES. Após essa segunda etapa de análise de risco, a TRANSAÇÃO poderá ser aprovada ou não, segundo critérios estabelecidos pelo MOIP.
-
-9.4.	O MOIP e a REDE DE PAGAMENTO farão a análise de risco transacional em favor do CLIENTE. No entanto, o CLIENTE está ciente e concorda que eventuais fraudes são inerentes ao risco de seu negócio e, portanto, deverão ser monetariamente suportadas por ele. Como benefício, e desde que preenchidos os critérios específicos, o MOIP reembolsará o CLIENTE de CHARGEBACKS identificados como fraudes, dentro dos limites e conforme condições estabelecidas no “Programa Venda Protegida”.
-9.4.1.	O CLIENTE declara que conhece e concorda com os parâmetros adotados pela análise de risco do MOIP, sendo que o cancelamento efetuado pelo próprio CLIENTE ainda o obriga ao pagamento das TARIFAS DE REMUNERAÇÃO pelo serviço prestado.
-
-9.5.	O MOIP poderá bloquear o acesso à CONTA MOIP, ou o saque dos recursos disponíveis, caso haja suspeita de fraude pelo CLIENTE e/ou identifique qualquer risco operacional em decorrência de sua conduta.
-9.5.1.	Na hipótese prevista no caput, o MOIP estipulará um cronograma de saque parcial de até 180 dias dos VALORES LÍQUIDOS disponíveis na CONTA MOIP.
+9.3.	O MOIP poderá bloquear o acesso à CONTA MOIP, caso haja suspeita de fraude pelo CLIENTE e/ou identifique qualquer risco operacional em decorrência de sua conduta.
 
 
 10.	DAS RESTRIÇÕES AO CLIENTE
 
 10.1.	Não é permitido ao CLIENTE:
 (i)	Copiar, transferir ou modificar de qualquer forma as características das FERRAMENTAS MOIP, quaisquer de suas funcionalidades ou informações relativas a estas;
-(ii)	Criar programas de computador que descaracterizem as FERRAMENTAS MOIP; e
+(ii)	Criar programas de computador para utilização das FERRAMENTAS MOIP; e
 (iii)	Copiar de qualquer forma dados extraídos das FERRAMENTAS MOIP, exceto aqueles relativos às movimentações da CONTA MOIP do CLIENTE.
-(iv)	Interceptar qualquer dado de CARTÃO fornecido pelo CONSUMIDOR ao MOIP
+(iv)	Interceptar quaisquer dados de CARTÃO fornecidos pelo CONSUMIDOR ao MOIP
 
-10.2.	O CLIENTE não poderá utilizar as SOLUÇÕES para TRANSAÇÕES oriundas de:
+10.2.	O CLIENTE não poderá utilizar as SOLUÇÕES para TRANSAÇÕES/operações relacionadas a:
 (i)	Atividades ilegais, tais como, mas não limitadas a: bestialidade, pedofilia, tráfico de droga, lavagem de dinheiro, financiamento ao terrorismo, produtos derivados de contrabando ou descaminho;
 (ii)	Armas de fogo e jogos de azar;
 (iii)	Venda de animais silvestres;
 (iv)	Produtos pendentes de homologação de órgãos governamentais;
 (v)	Ações, valores mobiliários ou qualquer tipo de produtos financeiros; 
-(vi)	Transações imobiliárias, agência de empregos, empresas de marketing multinível, escritórios de cobrança, consórcios e comercialização de cartão de desconto;
-(vii)	Importação direta de produtos (“dropshipping”);
-(viii)	Doações a partidos políticos ou a qualquer outra Pessoa Politicamente Exposta (PPE), nos termos da Circular do Banco Central do Brasil 3.461/09;
-(ix)	CLIENTES que apresentem CPF e/ou CNPJ inválidos;
-(x)	Negócios e Atividades Econômicas vedadas pelos Arranjos de Pagamento dos quais o MOIP participa;
-(xi)	Toda ação que infrinja as leis anticorrupção vigentes no Brasil, em especial as disposições apresentadas nas leis 9.613/98 (“Lei de Lavagem de Dinheiro”) e 12.846/13 (“Lei Anticorrupção”).
+(vi)	Transações imobiliárias, agência de empregos, escritórios de cobrança, consórcios e comercialização de cartão de desconto;
+(vii)	CLIENTES que apresentem CPF e/ou CNPJ inválidos;
+(viii)	Toda ação que infrinja as leis anti-corrupção vigentes no Brasil, em especial as disposições apresentadas nas leis 9.613/98 (“Lei de Lavagem de Dinheiro”) e 12.846/13 (“Lei Anticorrupção”).
 
 
 11.	DO PROCESSO DE CHARGEBACK OU CONTESTAÇÃO DE DÉBITO EFETUADO POR INTERMÉDIO DE CARTÃO
 
-11.1.	O CHARGEBACK é um direito do COMPRADOR, garantido pelas regras das BANDEIRAS e, salvo as exceções presentes no ANEXO 'Programa Venda Protegida”, será suportado pelo CLIENTE. O processo de CHARGEBACK é efetivado através do débito do valor da TRANSAÇÃO na CONTA MOIP do CLIENTE, e poderá ser requisitado pelo COMPRADOR em até 180 (cento e oitenta) dias, contados a partir do pagamento da última parcela da TRANSAÇÃO. 
+11.1.	O CHARGEBACK é um direito do COMPRADOR, garantido pelas regras das BANDEIRAS e será suportado pelo CLIENTE. O processo de CHARGEBACK é efetivado através do débito do valor da TRANSAÇÃO na CONTA MOIP do CLIENTE, e poderá ser requisitado pelo COMPRADOR em até 180 (cento e oitenta) dias, contados a partir do pagamento da última parcela da TRANSAÇÃO. 
 
 11.2.	O MOIP, mediante juízo próprio de conveniência e oportunidade e os usos e costumes do mercado, poderá denunciar este contrato de pleno direito, o finalizando sem necessidade de notificação prévia, caso o CLIENTE:
 11.2.1.	Possua um INDICADOR DE RISCO geral maior ou igual a 5% (cinco por cento)
@@ -366,47 +351,45 @@ O percentual da RESERVA DE CONTINGÊNCIA é aplicado sobre o maior faturamento m
 15.1.1.	A procuração outorgada pelo CLIENTE abrange o poder de executar as ordens de pagamento de sua titularidade, antecipar recebíveis em seu nome e promover a cessão de créditos.
 15.1.2.	O CLIENTE nomeia o MOIP seu fiel depositário dos recursos, recebíveis e demais títulos de crédito originados através de TRANSAÇÕES processadas pelo MOIP, aplicando a sua relação as regras do art. 645 do Código Civil.
 
-15.2.	Nenhuma PARTE poderá aliciar funcionários da outra PARTE, seja oferecendo cargos, bonificações, salários ou qualquer outra forma de contratação sob o regime cível ou trabalhista, até 1 (um) ano após o fim do CONTRATO, sob pena de ser responsabilizada por aliciamento e ser compelida ao pagamento de cláusula penal cujo valor corresponda a 12 (doze) meses de salário do funcionário aliciado.
- 
-15.3.	O MOIP obriga-se a manter sigilosas as informações recebidas dos CONSUMIDORES para a conclusão das TRANSAÇÕES, não sendo passível que a utilize para fins diversos.
-15.3.1.	O dever de sigilo previsto acima é excetuado em caso de lei ou ordem judicial que determine a divulgação destas informações.
+15.2.	O MOIP obriga-se a manter sigilosas as informações recebidas dos CONSUMIDORES para a conclusão das TRANSAÇÕES, não sendo passível que a utilize para fins diversos.
+15.2.1.	O dever de sigilo previsto acima é excetuado em caso de lei ou ordem judicial que determine a divulgação destas informações.
 
-15.4.	O CLIENTE deve informar seus CONSUMIDORES que o processamento de suas TRANSAÇÕES é feita pelo MOIP.
-15.4.1.	O CLIENTE deverá informar no seu Contrato que o MOIP processa as TRANSAÇÕES, bem como reiterar esta informação sempre que for necessário para a correta conscientização dos CONSUMIDORES.
-15.4.2.	É dever do CLIENTE disponibilizar aos CONSUMIDORES a Política de Privacidade do MOIP.
+15.3.	O CLIENTE deve informar seus CONSUMIDORES que o processamento de suas TRANSAÇÕES é feita pelo MOIP.
+15.3.1.	O CLIENTE deverá informar no seu Contrato que o MOIP processa as TRANSAÇÕES, bem como reiterar esta informação sempre que for necessário para a correta conscientização dos CONSUMIDORES.
+15.3.2.	É dever do CLIENTE disponibilizar aos CONSUMIDORES a Política de Privacidade do MOIP.
 
-15.5.	O CLIENTE é integralmente responsável pela utilização dos serviços em seu nome e/ou com a sua senha, assim como todos os encargos, demandas e/ou questionamentos decorrentes desta utilização.
-15.5.1.	As medidas e cautelas necessárias para manter em sigilo as informações de acesso e identificação da CONTA MOIP são de integral responsabilidade do CLIENTE.
+15.4.	O CLIENTE é integralmente responsável pela utilização dos serviços em seu nome e/ou com a sua senha, assim como todos os encargos, demandas e/ou questionamentos decorrentes desta utilização.
+15.4.1.	As medidas e cautelas necessárias para manter em sigilo as informações de acesso e identificação da CONTA MOIP são de integral responsabilidade do CLIENTE.
 
-15.6.	O MOIP é integralmente responsável pela correta disponibilidade do SERVIÇO, se responsabilizando pelos DANOS DIRETOS acarretados por falhas técnicas de sua culpa.
-15.6.1.	O MOIP não se responsabiliza por falhas técnicas no terminal do CLIENTE que impeçam o acesso às SOLUÇÕES e FERRAMENTAS MOIP.
+15.5.	O MOIP é integralmente responsável pela correta disponibilidade do SERVIÇO, se responsabilizando pelos DANOS DIRETOS acarretados por falhas técnicas de sua culpa.
+15.5.1.	O MOIP não se responsabiliza por falhas técnicas no terminal do CLIENTE que impeçam o acesso às SOLUÇÕES e FERRAMENTAS MOIP.
 
-15.7.	O CLIENTE declara-se ciente que o MOIP integra o Sistema de Pagamentos Brasileiro, não lhe sendo imputável qualquer responsabilidade por eventuais atos imputáveis a TERCEIROS que impossibilitem a prestação dos serviços aqui convencionados.
-15.7.1.	A limitação de responsabilidade desta cláusula abrange falhas, ações judiciais, ações administrativas, recuperação judicial, falência e demais riscos dos participantes da REDE DE PAGAMENTO que tenham repercussão sobre as operações do MOIP.
+15.6.	O CLIENTE declara-se ciente que o MOIP integra o Sistema de Pagamentos Brasileiro, não lhe sendo imputável qualquer responsabilidade por eventuais atos imputáveis a TERCEIROS que impossibilitem a prestação dos serviços aqui convencionados.
+15.6.1.	A limitação de responsabilidade desta cláusula abrange falhas, ações judiciais, ações administrativas, recuperação judicial, falência e demais riscos dos participantes da REDE DE PAGAMENTO que tenham repercussão sobre as operações do MOIP.
 
-15.8.	O CLIENTE declara estar ciente que o MOIP atua como Instituição de Pagamento Emissor de moeda eletrônica e Instituidor de Arranjo de Pagamento, portanto, não integrante da relação CLIENTE-CONSUMIDOR. A veracidade, precisão e conformidade das informações dos produtos e/ou serviços ofertados são de inteira responsabilidade do CLIENTE, assim como a efetiva conclusão da transação comercial nos termos e condições informados ao COMPRADOR.
-15.8.1.	Na hipótese de eventuais litígios contra o MOIP, relativamente às atividades do CLIENTE, este compromete-se a assumir a responsabilidade pelas obrigações exigidas ou reivindicadas nos referidos processos judiciais ou administrativos, substituindo, quando possível, o MOIP no polo passivo de tais litígio.
-15.8.2.	O CLIENTE será responsabilizado sempre que:
+15.7.	O CLIENTE declara estar ciente que o MOIP atua como Instituição de Pagamento Emissor de moeda eletrônica e Instituidor de Arranjo de Pagamento, portanto, não integrante da relação CLIENTE-CONSUMIDOR. A veracidade, precisão e conformidade das informações dos produtos e/ou serviços ofertados são de inteira responsabilidade do CLIENTE, assim como a efetiva conclusão da transação comercial nos termos e condições informados ao COMPRADOR.
+15.7.1.	Na hipótese de eventuais litígios contra o MOIP, relativamente às atividades do CLIENTE, este compromete-se a assumir a responsabilidade pelas obrigações exigidas ou reivindicadas nos referidos processos judiciais ou administrativos, substituindo, quando possível, o MOIP no polo passivo de tais litígio.
+15.7.2.	O CLIENTE será responsabilizado sempre que:
 (i)	Atrasar a postagem do produto;
 (ii)	Entregar o produto ou praticar o serviço com atraso;
 (iii)	Entregar produto/serviço com defeito e/ou divergência das informações fornecidas ao CONSUMIDOR;
 (iv)	Desistir da venda do produto ou prática do serviço; e
 (v)	Praticar qualquer falta, intencional ou não, na relação de consumo
-15.8.3.	O MOIP poderá utilizar os recursos existentes na CONTA MOIP do CLIENTE, bem como destinar eventuais recebíveis futuros do CLIENTE, para pagamento de condenações, prestação de garantias, honorários advocatícios, custas judiciais, multas administrativas, acordos e quaisquer outros custos incorridos pelo MOIP.
+15.7.3.	O MOIP poderá utilizar os recursos existentes na CONTA MOIP do CLIENTE, bem como destinar eventuais recebíveis futuros do CLIENTE, para pagamento de condenações, prestação de garantias, honorários advocatícios, custas judiciais, multas administrativas, acordos e quaisquer outros custos incorridos pelo MOIP.
 
-15.9.	Os tributos incidentes na prestação dos serviços e na licença de uso das FERRAMENTAS MOIP são de responsabilidade do MOIP, cabendo ao CLIENTE a obrigação do recolhimento dos impostos incidentes sobre suas próprias atividades.
+15.8.	Os tributos incidentes na prestação dos serviços e na licença de uso das FERRAMENTAS MOIP são de responsabilidade do MOIP, cabendo ao CLIENTE a obrigação do recolhimento dos impostos incidentes sobre suas próprias atividades.
 
-15.10.	O MOIP debitará da CONTA MOIP do CLIENTE, incluindo a possibilidade de retenção de recebíveis, todo e qualquer valor devido por prejuízos decorrentes de seus atos. Os débitos poderão corresponder a CHARGEBACKS, cancelamentos, despesas judiciais ou administrativas, multas e/ou penalidades aplicadas pela REDE DE PAGAMENTO ou por autoridades governamentais ao CLIENTE e qualquer outro valor que seja de sua exclusiva responsabilidade.
-15.10.1.	Na hipótese de não haver saldo suficiente para suportar os débitos, a CONTA MOIP ficará negativa na extensão dos débitos necessários. Esta operação, em hipótese alguma, caracteriza concessão de crédito, sendo certo que a existência de saldo negativo na CONTA MOIP do CLIENTE importa em prejuízo direto e imediato ao MOIP.
-15.10.2.	Para satisfazer suas obrigações junto ao MOIP, o CLIENTE, desde já, está ciente e concorda que qualquer recebível futuro a ser creditado em sua CONTA MOIP servirá para cobrir o seu saldo negativo. Na inexistência de recebíveis futuros e/ou caso haja um saldo negativo por período superior a 30 (trinta) dias consecutivos, o CLIENTE compromete-se a depositar em favor do MOIP o montante total devido no 31º (trigésimo primeiro) dia, na forma a ser especificada pelo MOIP.
-15.10.3.	O CLIENTE declara-se ciente que, caso não realize o depósito para cobrir o saldo negativo no prazo previsto, o MOIP poderá, a seu exclusivo critério, tomar medidas judiciais e administrativas contra o CLIENTE, bem como apresentar seu nome a Instituições de Cobrança e/ou AGÊNCIAS DE PROTEÇÃO AO CRÉDITO.
+15.9.	O MOIP debitará da CONTA MOIP do CLIENTE, incluindo a possibilidade de retenção de recebíveis, todo e qualquer valor devido por prejuízos decorrentes de seus atos. Os débitos poderão corresponder a CHARGEBACKS, cancelamentos, despesas judiciais ou administrativas, multas e/ou penalidades aplicadas pela REDE DE PAGAMENTO ou por autoridades governamentais ao CLIENTE e qualquer outro valor que seja de sua exclusiva responsabilidade.
+15.9.1.	Na hipótese de não haver saldo suficiente para suportar os débitos, a CONTA MOIP ficará negativa na extensão dos débitos necessários. Esta operação, em hipótese alguma, caracteriza concessão de crédito, sendo certo que a existência de saldo negativo na CONTA MOIP do CLIENTE importa em prejuízo direto e imediato ao MOIP.
+15.9.2.	Para satisfazer suas obrigações junto ao MOIP, o CLIENTE, desde já, está ciente e concorda que qualquer recebível futuro a ser creditado em sua CONTA MOIP servirá para cobrir o seu saldo negativo. Na inexistência de recebíveis futuros e/ou caso haja um saldo negativo por período superior a 30 (trinta) dias consecutivos, o CLIENTE compromete-se a depositar em favor do MOIP o montante total devido no 31º (trigésimo primeiro) dia, na forma a ser especificada pelo MOIP.
+15.9.3.	O CLIENTE declara-se ciente que, caso não realize o depósito para cobrir o saldo negativo no prazo previsto, o MOIP poderá, a seu exclusivo critério, tomar medidas judiciais e administrativas contra o CLIENTE, bem como apresentar seu nome a Instituições de Cobrança e/ou AGÊNCIAS DE PROTEÇÃO AO CRÉDITO.
 
-15.11.	O CLIENTE declara-se ciente e autoriza expressamente o MOIP a reter quaisquer valores disponíveis ou a serem disponibilizados em sua CONTA MOIP, caso seja constatada a presença de risco operacional e/ou financeiro, motivado por, mas não limitada, TRANSAÇÕES com alto potencial de fraude e/ou caso seja constatada a incapacidade ou vulnerabilidade financeira dos negócios do CLIENTE. O MOIP reterá tais valores para garantir, de forma integral, quaisquer valores ou obrigações devidas ao MOIP e/ou REDE DE PAGAMENTO. Qualquer retenção feita com base nessa Cláusula será comunicada ao CLIENTE.
+15.10.	O CLIENTE declara-se ciente e autoriza expressamente o MOIP a reter quaisquer valores disponíveis ou a serem disponibilizados em sua CONTA MOIP, caso seja constatada a presença de risco operacional e/ou financeiro, motivado por, mas não limitada, TRANSAÇÕES com alto potencial de fraude e/ou caso seja constatada a incapacidade ou vulnerabilidade financeira dos negócios do CLIENTE. O MOIP reterá tais valores para garantir, de forma integral, quaisquer valores ou obrigações devidas ao MOIP e/ou REDE DE PAGAMENTO. Qualquer retenção feita com base nessa Cláusula será comunicada ao CLIENTE.
 
-15.12.	O CLIENTE concorda que o MOIP envie mensagens de e-mail de caráter informativo, referentes a comunicações específicas inerentes às SOLUÇÕES, podendo também enviar comunicações de natureza comercial e novidades do MOIP.
-15.12.1.	Caso o CLIENTE não queira mais receber referidas mensagens, poderá solicitar o cancelamento pelo PORTAL MOIP ou pelo link do próprio e-mail recebido.
+15.11.	O CLIENTE concorda que o MOIP envie mensagens de e-mail de caráter informativo, referentes a comunicações específicas inerentes às SOLUÇÕES, podendo também enviar comunicações de natureza comercial e novidades do MOIP.
+15.11.1.	Caso o CLIENTE não queira mais receber referidas mensagens, poderá solicitar o cancelamento pelo PORTAL MOIP ou pelo link do próprio e-mail recebido.
 
-15.13.	O CLIENTE autoriza o MOIP a incluir, sem qualquer ônus ou encargos, seu nome, marcas e logotipos, endereço e demais informações cadastrais em ações de marketing e/ou qualquer outro meio ou material publicitário do MOIP, sendo garantido ao CLIENTE revogar esta autorização, em todo ou em parte, a qualquer momento, desde que através de documento escrito e aviso prévio de 7 (sete) dias corridos.
+15.12.	O CLIENTE autoriza o MOIP a incluir, sem qualquer ônus ou encargos, seu nome, marcas e logotipos, endereço e demais informações cadastrais em ações de marketing e/ou qualquer outro meio ou material publicitário do MOIP, sendo garantido ao CLIENTE revogar esta autorização, em todo ou em parte, a qualquer momento, desde que através de documento escrito e aviso prévio de 7 (sete) dias corridos.
 
 
 16.	CONFIDENCIALIDADE
@@ -453,39 +436,25 @@ O percentual da RESERVA DE CONTINGÊNCIA é aplicado sobre o maior faturamento m
 E, por estarem assim justas e contratadas celebram as Partes o presente Contrato em 02 (duas) vias de igual teor e forma, para um único efeito, perante as duas testemunhas abaixo assinadas.
 
 
-
-São Paulo, 26 de abril 2016
-
-
-
- 
-_________________________________
-MOIP PAGAMENTOS S.A.
-
-_________________________________
-MOIP PAGAMENTOS S.A. 
-		
+São Paulo, __ de março de 2016
 
 
 
-_______________________________
-<cliente>
+
+___________________________________		___________________________________
+MOIP PAGAMENTOS S.A.				  <nome da empresa>
+
+
 
 
 
 
 Testemunhas:
 
- 
-1ª. ___________________________
-Nome:	
-RG:	
-CPF:
-
-2ª. ___________________________
-Nome:	
-RG:	
-CPF:  
+1ª. ___________________________			2ª. ____________________________
+Nome:							Nome:
+RG:							RG:
+CPF:							CPF:
  
 
 ANEXO I – DEFINIÇÕES
@@ -551,43 +520,8 @@ VALOR BRUTO: valor total da TRANSAÇÃO realizada pelo CLIENTE antes da deduçã
 VALOR LÍQUIDO: valor a ser depositado na CONTA MOIP de titularidade do CLIENTE, descontadas todas as tarifas previstas contratualmente pela prestação dos serviços, bem como tributos e outros valores eventualmente devidos.
 
 
-ANEXO II – PROGRAMA DE VENDA PROTEGIDA
 
-
-1.	No Programa de Venda Protegida, o CLIENTE não será debitado quando um CHARGEBACK for comprovadamente definido como fraude.
-1.1.	A Fraude é caracterizada em TRANSAÇÕES contestadas sob a alegação de não realização e/ou não autorização da compra efetuada em razão de roubo/furto do CARTÃO, ou ainda da utilização dos dados do cartão do COMPRADOR por terceiros não autorizados.
-1.2.	As TRANSAÇÕES e/ou CLIENTES que não participarem do “Programa de Venda Protegida”, ou que não cumpram todos os requisitos exigidos neste Anexo, não podem exigir o cumprimento do disposto abaixo.
-
-2.	Para que o CLIENTE participe do Programa de Venda Protegida oferecido pelo MOIP, deverá atender a todos os quesitos listados abaixo:
-(i)	Comercializar produtos tangíveis (físicos), mantidos e entregues a partir de estoque local;
-(ii)	O prazo de entrega do produto deve atender rigorosamente o que foi estipulado no SITE do CLIENTE;
-(iii)	Seu INDICADOR DE RISCO não pode ser superior a 1% (um por cento). Será considerado neste caso, exclusivamente casos oriundos de desacordos comerciais comprovados; e
-(iv)	Cumprir integralmente o Procedimento previsto no presente Anexo e seus termos e condições.
-2.1.	O Programa de Venda Protegida será coberto pelo MOIP até o limite correspondente a 0,5% (zero, vírgula cinco por cento) sobre o valor de todas as TRANSAÇÕES nos últimos 12 (doze) meses.
-
-3.	Para que o cliente utilize o Programa de Venda Protegida, deverá encaminhar ao MOIP, no prazo de 10 (dez) dias, a seguinte documentação:
-3.1.	Para produtos com valor menor que R$ 500,00 (quinhentos reais):
-(i)	Código de Rastreio que comprove o endereço de entrega indicado pelo COMPRADOR, conjuntamente com o cadastro do COMPRADOR no site do CLIENTE e detalhes dos objetos comprados; e
-(ii)	 Nome completo e legível, assinatura, número de documento (RG e CPF) e endereço do COMPRADOR (contendo a cidade, Estado e Código de Endereçamento Postal de destino); e
-(iii)	A Nota Fiscal/invoice do produto vendido/entregue.
-3.2.	Para produtos com valor igual ou acima de R$ 500,00 (quinhentos reais):
-(i)	Cópia de comprovante de entrega válido (declaração da transportadora, Aviso de Recebimento dos Correios...), com a assinatura do COMPRADOR, ou quem lhe faça às vezes, endereço e data de entrega, ou Pedido de Informação (PI) emitido pelos Correios do Brasil detalhando a entrega do PRODUTO enviado ao COMPRADOR; e
-(ii)	Nome completo e legível, assinatura, número de documento (RG e CPF) e endereço do COMPRADOR (contendo a cidade, Estado e Código de Endereçamento Postal de destino); e
-(iii)	A Nota Fiscal/invoice do produto vendido/entregue.
-3.3.	Se necessário o envio de documentação complementar além da prevista acima, o CLIENTE deverá providenciá-la, mediante prévio aviso enviado pelo MOIP.
-3.3.1.	O requerimento para complementar os Documentos não interrompe ou suspende o prazo estabelecido na cláusula 3 deste Anexo. 
-3.4.	O endereço de entrega deve corresponder ao constante da TRANSAÇÃO aprovada.
-
-4.	O CLIENTE não terá direito ao Programa de Venda Protegida nos seguintes casos:
-(i)	Quando faltar uma política clara referente à devolução, prazo de entrega, e características do produto por parte do CLIENTE, em seu SITE;
-(ii)	CHARGEBACKS decorrentes de desacordo comercial, como: mercadoria não entregue, mercadoria com defeito, mercadoria contrafeita, entrega fora do prazo;
-(iii)	CHARGEBACKS por produtos diferentes daqueles descritos nos documentos de envio e de recebimento dos produtos;
-(iv)	CHARGEBACKS por produtos que tenham sido entregues ao COMPRADOR na loja física do CLIENTE; e
-(v)	Casos comprovados de auto fraude;
-(vi)	Se a sua integração com os PRODUTOS e SERVIÇOS MOIP não contemplar a obtenção de todas as informações, obrigatórias e opcionais, da área Pedidos.
-
-
-ANEXO III – MARKETPLACE POR AGENCIAMENTO
+ANEXO II – MARKETPLACE POR AGENCIAMENTO
 
 
 Este Anexo é aplicável somente aos CLIENTES que atuam como MARKETPLACE através da cobrança de Taxa de Agência.
@@ -620,19 +554,19 @@ TRANSAÇÕES: Todas e quaisquer aquisições de bens e/ou serviços realizadas p
 4.3.	Em caso de reembolsos de TRANSAÇÕES previamente autorizadas ou concluídas, somente o MARKETPLACE poderá determinar e efetuar o reembolso ao COMPRADOR.
 4.3.1.	Para que o reembolso seja realizado, o MARKETPLACE e/ou LOJA VIRTUAL deverão possuir saldo suficiente para realização da TRANSAÇÃO.
  
-ANEXO IV – MARKETPLACE POR COMISSIONAMENTO
+ANEXO III – MARKETPLACE POR COMISSIONAMENTO
 
 
 Este Anexo é aplicável somente aos CLIENTES que atuam como MARKETPLACE através da cobrança de comissão.
 
-1.	Tendo em vista que cada TRANSAÇÃO realizada por meio do MARKETPLACE é compartilhada entre o MARKETPLACE e a respectiva LOJA VIRTUAL, o MARKETPLACE assume todas as obrigações e responsabilidades atribuídas ao CLIENTE no CONTRATO, conforme o artigo 694 do Código Civil.
+5.	Tendo em vista que cada TRANSAÇÃO realizada por meio do MARKETPLACE é compartilhada entre o MARKETPLACE e a respectiva LOJA VIRTUAL, o MARKETPLACE assume todas as obrigações e responsabilidades atribuídas ao CLIENTE no CONTRATO, conforme o artigo 694 do Código Civil.
 
-2.	A LOJA VIRTUAL e o MARKETPLACE serão responsáveis perante o MOIP por todas e quaisquer TRANSAÇÕES realizadas no MARKETPLACE.
+6.	A LOJA VIRTUAL e o MARKETPLACE serão responsáveis perante o MOIP por todas e quaisquer TRANSAÇÕES realizadas no MARKETPLACE.
 
 
-3.	DEFINIÇÕES:
+7.	DEFINIÇÕES:
 
-3.1.	A menos que por outra forma expressamente disposta ou exigida em função do contexto, as expressões em letra maiúscula neste anexo, no singular ou plural, terão os significados especificados abaixo:
+7.1.	A menos que por outra forma expressamente disposta ou exigida em função do contexto, as expressões em letra maiúscula neste anexo, no singular ou plural, terão os significados especificados abaixo:
 
 PAGADOR: Pessoa física ou jurídica que seja usuária do MARKETPLACE para adquirir produtos ou serviços das LOJAS VIRTUAIS. Tem o significado de COMPRADOR nos termos do CONTRATO.
 
@@ -643,18 +577,18 @@ MARKETPLACE/COMISSÁRIO/RECEBEDOR PRIMÁRIO: caracteriza-se por comercializar, e
 TRANSAÇÕES: Todas e quaisquer aquisições de bens e/ou serviços realizadas pelo PAGADOR nas LOJAS VIRTUAIS credenciadas ao MARKETPLACE, realizadas e processadas pelo MOIP.
 
 
-4.	SPLIT DO COMISSIONAMENTO
+8.	SPLIT DO COMISSIONAMENTO
 
-4.1.	O Split do Comissionamento, também é um tipo de FERRAMENTA MOIP que permite a liquidação de um pagamento na CONTA MOIP de cada PARTE, automaticamente, conforme regras negociadas.
+8.1.	O Split do Comissionamento, também é um tipo de FERRAMENTA MOIP que permite a liquidação de um pagamento na CONTA MOIP de cada PARTE, automaticamente, conforme regras negociadas.
 
-4.2.	Os percentuais devidos ao COMITENTE e ao MARKETPLACE serão definidos por estes, conforme as regras do negócio, e serão informados ao MOIP eletronicamente.
-4.2.1.	Diante da mutabilidade dos percentuais e da periodicidade indefinida das alterações, é de inteira responsabilidade do MARKETPLACE a transmissão e definição correta dos dados, bem como em caso de erro de definição, é responsabilidade do MARKETPLACE que está ciente e concorda que não há possibilidade de alteração futura, devendo arcar com eventual prejuízo que a incorreta definição possa gerar.
+8.2.	Os percentuais devidos ao COMITENTE e ao MARKETPLACE serão definidos por estes, conforme as regras do negócio, e serão informados ao MOIP eletronicamente.
+8.2.1.	Diante da mutabilidade dos percentuais e da periodicidade indefinida das alterações, é de inteira responsabilidade do MARKETPLACE a transmissão e definição correta dos dados, bem como em caso de erro de definição, é responsabilidade do MARKETPLACE que está ciente e concorda que não há possibilidade de alteração futura, devendo arcar com eventual prejuízo que a incorreta definição possa gerar.
 
-4.3.	Em caso de reembolsos ou CHARGEBACKS de TRANSAÇÕES previamente autorizadas ou concluídas, o MARKETPLACE será o responsável por arcar com o reembolso ao PAGADOR, que será feito diretamente pelo MOIP.
-4.3.1.	Para que o reembolso seja realizado, o MARKETPLACE deverá possuir saldo suficiente para realização da TRANSAÇÃO.
+8.3.	Em caso de reembolsos ou CHARGEBACKS de TRANSAÇÕES previamente autorizadas ou concluídas, o MARKETPLACE será o responsável por arcar com o reembolso ao PAGADOR, que será feito diretamente pelo MOIP.
+8.3.1.	Para que o reembolso seja realizado, o MARKETPLACE deverá possuir saldo suficiente para realização da TRANSAÇÃO.
 
  
-ANEXO V - CROWDFUNDING
+ANEXO IV - CROWDFUNDING
 
 Este Anexo é aplicável somente aos CLIENTES que atuam como CROWDFUNDING. 
 
@@ -679,5 +613,7 @@ RESPONSÁVEL PELO PROJETO: Pessoa física ou jurídica que pertença ao sistema 
 
 3.3.	A realização do PROJETO é responsabilidade do RESPONSÁVEL PELO PROJETO, que devem obter as licenças e autorizações necessárias, bem como responder por seu impacto fiscal, regulatório e eventuais prejuízos ao INCENTIVADOR e/ou terceiros.
 3.3.1.	O CROWDFUNDING e o RESPONSÁVEL DO PROJETO declaram e garantem que os PROJETOS serão criados e implementados nos termos da legislação aplicável, de modo que o MOIP será responsável apenas pela prestação de serviços de intermediação da TRANSAÇÃO realizada pelo INCENTIVADOR, ficando isento de qualquer responsabilidade relativa à relação entre INCENTIVADOR e CROWDFUNDING/RESPONSÁVEL DO PROJETO.
+
+
 
 
